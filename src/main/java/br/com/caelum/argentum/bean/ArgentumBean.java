@@ -24,7 +24,7 @@ import br.com.caelum.argentum.ws.ClienteWebService;
 
 @ViewScoped
 @ManagedBean
-public class ArgentumBean implements Serializable {
+public classe ArgentumBean implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 	private List<Negociacao> negociacoes;
